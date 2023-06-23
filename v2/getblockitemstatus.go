@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium/v2/pb"
+	"concordium_go_sdk/v2/pb"
 )
 
 // GetBlockItemStatus get the status of and information about a specific block item (transaction).

@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium/v2/pb"
+	"concordium_go_sdk/v2/pb"
 )
 
 // GetBlockChainParameters get the values of chain parameters in effect in the given block.

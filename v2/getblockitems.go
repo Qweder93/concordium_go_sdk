@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium/v2/pb"
+	"concordium_go_sdk/v2/pb"
 )
 
 // GetBlockItems get the items of a block.

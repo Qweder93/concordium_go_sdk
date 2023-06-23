@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium/v2/pb"
+	"concordium_go_sdk/v2/pb"
 )
 
 // GetAccountNonFinalizedTransactions get a list of non-finalized transaction hashes for a given account.

@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium/v2/pb"
+	"concordium_go_sdk/v2/pb"
 )
 
 // GetPassiveDelegatorsRewardPeriod get the fixed passive delegators for the reward period of the given block.

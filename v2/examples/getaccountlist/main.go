@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"concordium/v2"
-	"concordium/v2/pb"
+	"concordium_go_sdk/v2"
+	"concordium_go_sdk/v2/pb"
 )
 
 func main() {

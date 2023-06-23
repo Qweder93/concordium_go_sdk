@@ -1,4 +1,4 @@
-module concordium
+module concordium_go_sdk
 
 go 1.20
 

@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium/v2/pb"
+	"concordium_go_sdk/v2/pb"
 )
 
 // InvokeInstance run the smart contract entrypoint in a given context and in the state at the end of the given block.
