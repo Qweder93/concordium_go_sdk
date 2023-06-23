@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium-go-sdk/v2/pb"
+	"concordium/v2/pb"
 )
 
 // GetNodeInfo get information about the node.
