@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"concordium-go-sdk/v2"
-	"concordium-go-sdk/v2/pb"
+	"concordium/v2"
+	"concordium/v2/pb"
 )
 
 func TestExamples(t *testing.T) {
