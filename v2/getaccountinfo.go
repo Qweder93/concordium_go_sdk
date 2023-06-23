@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium_go_sdk/v2/pb"
+	"github.com/Qweder93/concordium_go_sdk/v2/pb"
 )
 
 // GetAccountInfo retrieve the information about the given account in the given block.

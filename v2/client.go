@@ -4,7 +4,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	"concordium_go_sdk/v2/pb"
+	"github.com/Qweder93/concordium_go_sdk/v2/pb"
 )
 
 // Config contains Concordium configurable values.

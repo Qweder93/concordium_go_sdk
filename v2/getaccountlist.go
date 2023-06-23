@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium_go_sdk/v2/pb"
+	"github.com/Qweder93/concordium_go_sdk/v2/pb"
 )
 
 // GetAccountList retrieve the list of accounts that exist at the end of the given block.

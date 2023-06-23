@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium_go_sdk/v2/pb"
+	"github.com/Qweder93/concordium_go_sdk/v2/pb"
 )
 
 // DumpStop stop dumping packages. Only enabled if the node was built with the `network_dump` feature.

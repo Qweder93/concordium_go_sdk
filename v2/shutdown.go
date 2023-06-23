@@ -3,7 +3,7 @@ package v2
 import (
 	"context"
 
-	"concordium_go_sdk/v2/pb"
+	"github.com/Qweder93/concordium_go_sdk/v2/pb"
 )
 
 // Shutdown shut down the node. Return a GRPC error if the shutdown failed.

@@ -1,4 +1,4 @@
-module concordium_go_sdk
+module github.com/Qweder93/concordium_go_sdk
 
 go 1.20
 
